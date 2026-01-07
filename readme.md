@@ -1,7 +1,7 @@
 ## openBulk exercise
 
 ---
-
+Demonstration of a solid model and testing two piv-files
 ## Installation
 
 ```bash
